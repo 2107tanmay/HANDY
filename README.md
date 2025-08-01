@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Handwriting-Calculator
 Implement MNIST dataset for handwriting recognition. Apply to calculator app.
 
@@ -71,4 +71,3 @@ Based on a CNN model that classifies the symbol into 0:9, +, -, x, >, < and neq 
 - Each symbol predicted by giving extracted symbol image as an input to the model
 - Mathematical operations are performed on the predictions and output a final result
 - Web Application: Used Flask to envelope the model as a web app to provide the user a simple interface
->>>>>>> c113ac4fa971eb7431da41c236e8d2e7d45d8749
